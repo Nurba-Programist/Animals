@@ -1,0 +1,137 @@
+    1  ls
+    2  ls -l
+    3  cd /
+    4  ls
+    5  cd
+    6  md my-project
+    7  sudo md my-project
+    8  git --version
+    9  git config --global user.email nurbolot.dolatbekovich@gmail.com
+   10  ls -al ~/.ssh
+   11  eval "$(ssh-agent -s)"
+   12  ls 
+   13  ls -l
+   14  mkrdir your-project
+   15  mkdir your-project
+   16  ls
+   17  cd your project
+   18  cd your-project
+   19  ls
+   20  git clone git@github.com:Nurba-Ptogramist/your-project.git
+   21  git clone git@github.com:Nurba-Ptogramist/vm-2.git
+   22  ssh-keygen -t rsa -b 4096
+   23  ls
+   24  cd .ssh
+   25  cd /home/gb-2/.ssh/
+   26  cat id_rsa.pub
+   27  git clone git@github.com:Nurba-Ptogramist/vm-2.git
+   28  git clone git@github.com:Nurba-Ptogramist/your-project.git
+   29  git clone git@github.com:Nurba-Ptogramist/vm-2.git
+   30  echo "# vm-2" >> README.md
+   31  git init
+   32  git add README.md
+   33  git commit -m "first commit"
+   34  git branch -M main
+   35  git remote add origin git@github.com:Nurba-Programist/vm-2.git
+   36  git push -u origin main
+   37  sudo git push -u origin main
+   38  git branch
+   39  git push -u origin main
+   40  git checkout -b main
+   41  git push -u origin master
+   42  git checkout -b main
+   43  git push -u origin master
+   44  git checkout main
+   45  git branch -r
+   46  git checkout master
+   47  git clone git@github.com:nurbolot.dolatbekovich@gmail.com/vm-2.git
+   48  git clone git@github.com:Nurba-Programist/vm-2.git
+   49  cd
+   50  ls
+   51  cd your-project
+   52  git clone git@github.com:Nurba-Programist/vm-2.git
+   53  echo "# vm-2" >> README.md
+   54  git init
+   55  git add README.md
+   56  ls
+   57  cat README.md
+   58  git clone git@github.com:Nurba-Programist/vm-2.git
+   59  rm -rf vm-2
+   60  git clone git@github.com:Nurba-Programist/vm-2.git
+   61  ➜  device git clone git@github.com:Nurba-Programist/vm-2.git
+   62  your-project git clone git@github.com:Nurba-Programist/vm-2.git
+   63  cd
+   64  your-project git clone git@github.com:Nurba-Programist/vm-2.git
+   65  git clone git@github.com:Nurba-Programist/vm-2.git
+   66  ls
+   67  cd vm-2
+   68  ls
+   69  echo "# vm-2" >> README.md
+   70  git init
+   71  git add README.md
+   72  git commit -m "first commit"
+   73  git branch -M main
+   74  git clone git@github.com:Nurba-Programist/vm-2.git
+   75  ls
+   76  cat README.md
+   77  git remote add origin git@github.com:Nurba-Programist/vm-2.git
+   78  git add .
+   79  git commit -m "Initial commit"
+   80  git push -u origin main
+   81  git push -u main
+   82  cd
+   83  mkdir vm-1
+   84  cd vm-1
+   85  echo "# vm-2" >> README.md
+   86  git init
+   87  git add README.md
+   88  git commit -m "first commit"
+   89  git config --global user.name "Nurba-Programist"
+   90  git config --global user.email nurbolot.dolatbekovich@gmail.com
+   91  git commit -m "first commit"
+   92  git branch -M main
+   93  git remote add origin git@github.com:Nurba-Programist/vm-2.git
+   94  git push -u origin main
+   95  echo "# vm-3" >> README2.md
+   96  git init
+   97  git add README.md
+   98  git add README2.md
+   99  git commit -m "commit 2"
+  100  git branch -M main
+  101  git remote add origin git@github.com:Nurba-Programist/vm-2.git
+  102  git remote add origin2 git@github.com:Nurba-Programist/vm-2.git
+  103  git push -u origin2 main
+  104  mkdir vm-4
+  105  git init
+  106  git add vm-4
+  107  git commit -m "commit 3"
+  108  git branch -M main
+  109  git remote add origin3 git@github.com:Nurba-Programist/vm-2.git
+  110  git push -u origin3 main
+  111  clear
+  112  ls
+  113  echo -e "Собака\nКошка\nХомяк" > domestic_animals.txt
+  114  echo -e "Лошадь\nВерблюд\nОсел" > pack_animals.txt
+  115  cat domestic_animals.txt pack_animals.txt > animals.txt
+  116* sudo apt-get install software-properties-common
+sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ bionic mysql-apt-config'
+sudo apt-get update
+
+  117  mv animals.txt friends_of_man.txt
+  118  mkdir animals_directory
+  119  mv friends_of_man.txt animals_directory/
+  120  echo -e "Лошадь\nВерблюд\nОсел" > pack_animals.txt
+  121  ды
+  122  cd animals_directory
+  123  ls
+  124  cat friends_of_man.txt
+  125  cd
+  126  ls
+  127  sudo apt-get install software-properties-common
+  128  sudo add-apt-repository 'deb http://repo.mysql.com/apt/ubuntu/ bionic mysql-apt-config'
+  129  sudo apt-get update
+  130  sudo apt-get install mysql-server
+  131  sudo apt-get download nano
+  132  sudo dpkg -i nano*.deb
+  133  sudo dpkg -r nano
+  134  history > terminal_history.txt
